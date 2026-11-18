@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  weight: 9.99
+  volume: 9.99
+  origin: MyString
+  destination: MyString
+  status: MyString
+  service_type: one
+
+two:
+  name: MyString
+  weight: 9.99
+  volume: 9.99
+  origin: MyString
+  destination: MyString
+  status: MyString
+  service_type: two
